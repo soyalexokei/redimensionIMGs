@@ -2,8 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/124466958/226968164-358be9b2-1e88-4f5b-9ebf-15593ff96e74.png)
 
-#### Lo podrás conseguir por medio del Software online: I love IMG.
-#### El link a dicho Software es: https://www.iloveimg.com/es/redimensionar-imagen
+#### Lo podrás conseguir por medio del Software online: [I love IMG](https://www.iloveimg.com/es/redimensionar-imagen)
 
 Y para el caso de: ![image](https://user-images.githubusercontent.com/124466958/227007617-7bda0d00-e9d0-463f-bb15-8db3757e263e.png)
 
